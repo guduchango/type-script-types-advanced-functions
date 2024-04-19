@@ -1,6 +1,14 @@
 # Curso-TypeScript-Tipos-Avanzados-Funciones
 ![image](https://user-images.githubusercontent.com/42653934/166395339-72fdbbeb-dc25-446f-bb2d-9c1a3b8fcec5.png)
 
+### Platzi certification 
+
+![alt text](https://images.edgardoponce.com/type-script-types-advanced-functions.png "Certification")
+
+### Download
+
+[Download certificate](https://edgardoponce.com/files/certificates/curso-de-css-grid-layout-e-interfaces.pdf)
+
 ## Configuración del proyecto con ts-node
 
 Dentro de nuestro proyecto, vamos a hacer el `git init` y generamos el gitignore con [**gitignore.io](http://gitignore.io)** para windows, linux, mac y node.js.
