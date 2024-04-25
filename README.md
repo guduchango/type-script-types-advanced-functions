@@ -7,7 +7,7 @@
 
 ### Download
 
-[Download certificate](https://edgardoponce.com/files/certificates/curso-de-css-grid-layout-e-interfaces.pdf)
+[Download certificate](https://edgardoponce.com/files/certificates/diploma-typescript-tipos-avanzados.pdf)
 
 ## Configuración del proyecto con ts-node
 
